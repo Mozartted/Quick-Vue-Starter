@@ -1,4 +1,4 @@
-# schools_compass
+# Quick Vue starter
 
 > A Vue.js project
 
